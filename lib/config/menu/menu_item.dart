@@ -17,7 +17,7 @@ const appMenuItems = <MenuItem>[
   MenuItem(
       title: 'Botones',
       subtitle: 'Varios botones en FLutter',
-      link: '/',
+      link: '/buttons',
       icon: Icons.smart_button_outlined),
   MenuItem(
       title: 'Tarjetas',
